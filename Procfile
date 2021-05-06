@@ -1,1 +1,1 @@
-web: gunicorn app:Machine Status-prediction-api
+web:gunicorn app:Machine Status-prediction-api
